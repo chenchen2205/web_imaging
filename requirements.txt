@@ -3,4 +3,4 @@ matplotlib
 streamlit
 Pillow
 astropy
-opencv-python
+opencv-python-headless
